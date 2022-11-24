@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-24T00:58:48.260Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="falXqmYdfjCjKptHCCrh" version="20.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-24T01:04:28.338Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="4AyEMRBPY47hRqDFAfZ4" version="20.5.1" type="github">
   <diagram id="Fvd_MwYm9raCLu-trwHR" name="Page-1">
     <mxGraphModel dx="1619" dy="362" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -134,6 +134,9 @@
         </mxCell>
         <mxCell id="rBwdkshOeR78V1XTqOZe-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="rBwdkshOeR78V1XTqOZe-18" target="rBwdkshOeR78V1XTqOZe-43">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rBwdkshOeR78V1XTqOZe-48" value="User Login App&lt;br&gt;Barn Adding&lt;br&gt;Device Adding App&lt;br&gt;Scheduling App&lt;br&gt;View Device List&lt;br&gt;View Current State&lt;br&gt;View Barns" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="655" width="120" height="130" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
