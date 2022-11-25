@@ -1,0 +1,72 @@
+Users
+
+
+
+Farms
+
+
+Barns
+
+Bird Types
+  Pullet
+  Broiler
+  Breeder
+  Layer
+  
+
+
+Reports
+    Hourly
+    Daily
+    Monthly
+
+Schedules
+  Flush
+  Feed
+  Light
+  Ventlation
+  
+
+Equipment
+  Fans
+  Feed Drive
+  Feed Fill
+  Brooders
+  Curtains
+  Vents
+  Winching
+  Water Meter
+        Behavior
+             Buffer 1 hrs worth of water history
+        SPC?
+        Historical Usage
+        Failure Modes
+            Of the device
+                Locked up
+                Not online
+                Not hooked up 
+        Checks
+            Check last connection  
+
+Devices
+
+
+
+Device Types
+  Shelly 1
+  Shelly Plus 1
+  I4
+  I4DC
+  Temp
+  
+  Camera
+   Water Metere
+   Current meter
+   Relay
+   Input
+   Temperature
+   Humidity
+   Light
+   
+   
+   
