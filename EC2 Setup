@@ -1,0 +1,26 @@
+Setting up MQTT
+
+Install
+Set up configuration
+sudo service mosquitto stop
+mosquitto -v -c /etc/mosquitto/conf.d/bridge.conf
+if not working 
+ps -ef | grep mosquitto
+find the wrong conf running and then
+sudo kill 12345
+------------------
+log_type all
+
+listener 9001
+protocol websockets
+allow_anonymous true
+
+listener 1883
+protocol mqtt
+allow_anonymous true
+
+---------------------
+
+
+
+
